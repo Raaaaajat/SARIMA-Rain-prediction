@@ -41,7 +41,6 @@ o	A graph of year to rain (in mm) is plotted for final visualization.
 
 
 Group members and contact numbers
-Group Link: https://chat.whatsapp.com/IEkikOnDEjMFjTW71MmvWE
 
 1.	Rajat Pati (Team Lead)
 2.	Pratik Das
